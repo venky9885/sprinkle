@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1057233925162",
+    "project_id": "sprinkle-acc93",
+    "storage_bucket": "sprinkle-acc93.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1057233925162:android:d59e4adf00a33cebedff53",
+        "android_client_info": {
+          "package_name": "com.example.sprinkle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1057233925162-fkorhatv5fi6l6vfpntk33rigaivpbp1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0HbIThcUXsqC8oyuAoEJDtSwFRSNFiYA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1057233925162-fkorhatv5fi6l6vfpntk33rigaivpbp1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
