@@ -18,7 +18,7 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 ## MVVM Architecture
-<img width='100px' src='https://github.com/venky9885/sprinkle/blob/main/WhatsApp%20Image%202021-02-21%20at%2011.50.53%20AM.jpeg'>
+<img width='2000px' src='https://github.com/venky9885/sprinkle/blob/main/WhatsApp%20Image%202021-02-21%20at%2011.50.53%20AM.jpeg'>
 MVVM architecture is Seperating business logic from ui,
 I used Different packages for Implementing mvvm Arch,
 get it dependency is used for dependency injection
