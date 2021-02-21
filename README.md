@@ -1,6 +1,8 @@
 # sprinkle
 
-A new Flutter project.
+
+
+Replace you Google services.json file and run the project
 
 ## Getting Started
 
@@ -17,13 +19,12 @@ samples, guidance on mobile development, and a full API reference.
 
 ## MVVM Architecture
 
-Replace you Google services.json file and run the project
+# MVVM architecture is Seperating business logic from ui,
+# I used Different packages for Implementing mvvm Arch,
+# get it dependency is used for dependency injection
+# The Achitecture mainly focus on Seperating three sections,i.e *** View ,View Model, Services ***
 
 
-## Architecture
-***View
-View Model
-Services***
 
 
 
