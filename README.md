@@ -2,8 +2,9 @@
 
 
 
-Currently Working on the project ,Have any problem post an issue
-## Getting Started
+Currently Working on the project ,Have any issue Create an issue
+
+
 ## Create a similar setup
 
 1. Clone or download this repository.
@@ -14,6 +15,8 @@ Currently Working on the project ,Have any problem post an issue
 6. Once it is successfully built and installed, enjoy using it!
 
 Replace you Google services.json file and run the project
+
+## Getting Started
 
 This project is a starting point for a Flutter application.
 
